@@ -2,6 +2,20 @@
 
 Cinemagoria is a high-performance **Progressive Web Application (PWA)** engineered for modern viewers. By aggregating data from **TMDB, IMDb, MDBList, Trakt, and JustWatch**, it provides a centralized hub for intelligent search and cross-device synchronization.
 
-![EnterCinema Cover](https://ivanluna.dev/images/assets/cinemagoria-asset1.webp)
+![Cover](https://ivanluna.dev/images/assets/cinemagoria-asset1.webp)
 
-Cinemagoria streamlines the entertainment lifecycle—from initial discovery to release tracking. It bridges the gap between fragmented streaming data and personal curation, offering a seamless interface for managing watchlists and receiving real-time notifications.
+The platform streamlines the entertainment lifecycle—from initial discovery to release tracking. It bridges the gap between fragmented streaming data and personal curation, offering a seamless interface for managing watchlists and receiving real-time notifications.
+
+### Festival coverage
+
+The circuit gets first-class treatment: every covered festival has its own page, built from the festival's own programme rather than a generic feed. Selections are grouped by their real sections, screening schedules are timezone-aware, award winners are seeded once the ceremonies close, and any title that played a covered festival carries that provenance wherever it appears across the platform.
+
+Shipping today: **Sundance · Berlinale · Rotterdam · SXSW · BIFFF · BAFICI · Calgary Underground · Cannes · Tribeca · Karlovy Vary · Fantasia · FrightFest · Venice · Toronto**.
+
+Landing across the rest of the 2026 cycle: **San Sebastián · BFI London · Sitges · Buenos Aires Rojo Sangre · Cairo · Marrakech · Mar del Plata · Red Sea** — the last four taking coverage beyond the European and American circuits for the first time. The 2027 cycle adds **Göteborg** and **Locarno**.
+
+Catalogs are assembled from public metadata and third-party sources, which do not always reach every title — shorts, experimental work and regional productions especially. That is a metadata limitation, never an editorial one.
+
+### Development
+
+Work is tracked in the open: issues and milestones per festival edition, each planned against the festival's lineup announcement rather than a countdown to opening night, since nothing can be ingested before the programme is public.
