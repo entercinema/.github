@@ -21,9 +21,9 @@ The platform streamlines the entertainment lifecycle—from initial discovery to
 
 The circuit gets first-class treatment: every covered festival has its own page, built from the festival's own programme rather than a generic feed. Selections are grouped by their real sections, screening schedules are timezone-aware, award winners are seeded once the ceremonies close, and any title that played a covered festival carries that provenance wherever it appears.
 
-Live now: **Sundance · Rotterdam · Berlinale · Romford Horror · Slamdance · SXSW · BIFFF · BAFICI · Calgary Underground · Cannes · Tribeca · Karlovy Vary · Fantasia · FrightFest · Venice · Toronto**.
+Live now: **Sundance · Rotterdam · Berlinale · Romford Horror · Slamdance · SXSW · BIFFF · BAFICI · Calgary Underground · Cannes · Tribeca · Bucheon · Karlovy Vary · Fantasia · Locarno · FrightFest · Venice · Toronto**.
 
-Landing across the rest of the 2026 cycle: **San Sebastián · BFI London · Sitges · Cairo · Mar del Plata · Buenos Aires Rojo Sangre · Marrakech · Red Sea** — the last four taking coverage beyond the European and American circuits for the first time.
+Landing across the rest of the 2026 cycle: **Busan · BFI London · Sitges · Cairo · Mar del Plata · Buenos Aires Rojo Sangre · Marrakech · Red Sea** — Cairo, Marrakech and Red Sea taking coverage into Africa and the Middle East, and Busan following Bucheon into South Korea.
 
 Catalogs are assembled from public metadata and third-party sources, which do not always reach every title — shorts, experimental work and regional productions especially. That is a metadata limitation, never an editorial one.
 
